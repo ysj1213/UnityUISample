@@ -59,8 +59,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\Test001Dlg.cs" />
+    <Compile Include="Assets\Script\Test003Dlg.cs" />
     <Compile Include="Assets\Script\TextScript.cs" />
     <Compile Include="Assets\Script\Test002Dlg.cs" />
+    <Compile Include="Assets\Script\Test004Dlg.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
