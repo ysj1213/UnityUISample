@@ -60,6 +60,7 @@
   <ItemGroup>
     <Compile Include="Assets\Script\Test001Dlg.cs" />
     <Compile Include="Assets\Script\TextScript.cs" />
+    <Compile Include="Assets\Script\Test002Dlg.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
