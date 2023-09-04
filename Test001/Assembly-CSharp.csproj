@@ -59,8 +59,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\Test001Dlg.cs" />
+    <Compile Include="Assets\Script\Test006Dlg.cs" />
+    <Compile Include="Assets\Script\Test010Dlg.cs" />
     <Compile Include="Assets\Script\Test003Dlg.cs" />
+    <Compile Include="Assets\Script\Test008Dlg.cs" />
+    <Compile Include="Assets\Script\Test007Dlg.cs" />
+    <Compile Include="Assets\Script\Test005Dlg.cs" />
+    <Compile Include="Assets\Script\Actor.cs" />
+    <Compile Include="Assets\Script\Test011Dlg.cs" />
     <Compile Include="Assets\Script\TextScript.cs" />
+    <Compile Include="Assets\Script\Test009Dlg.cs" />
     <Compile Include="Assets\Script\Test002Dlg.cs" />
     <Compile Include="Assets\Script\Test004Dlg.cs" />
   </ItemGroup>
