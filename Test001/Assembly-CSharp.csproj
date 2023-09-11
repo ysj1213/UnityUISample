@@ -58,7 +58,8 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.7f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\Text012Dlg.cs" />
+    <Compile Include="Assets\Script\Test013Dlg.cs" />
+    <Compile Include="Assets\Script\Test015Dlg.cs" />
     <Compile Include="Assets\Script\Test001Dlg.cs" />
     <Compile Include="Assets\Script\Test006Dlg.cs" />
     <Compile Include="Assets\Script\Test010Dlg.cs" />
@@ -66,11 +67,14 @@
     <Compile Include="Assets\Script\Test008Dlg.cs" />
     <Compile Include="Assets\Script\Test007Dlg.cs" />
     <Compile Include="Assets\Script\Test005Dlg.cs" />
+    <Compile Include="Assets\Script\Test012Dlg.cs" />
     <Compile Include="Assets\Script\Actor.cs" />
     <Compile Include="Assets\Script\Test011Dlg.cs" />
     <Compile Include="Assets\Script\TextScript.cs" />
     <Compile Include="Assets\Script\Test009Dlg.cs" />
+    <Compile Include="Assets\Script\Test016Dlg.cs" />
     <Compile Include="Assets\Script\Test002Dlg.cs" />
+    <Compile Include="Assets\Script\Test014Dlg.cs" />
     <Compile Include="Assets\Script\Test004Dlg.cs" />
   </ItemGroup>
   <ItemGroup>

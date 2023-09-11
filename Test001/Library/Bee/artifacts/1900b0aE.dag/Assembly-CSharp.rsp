@@ -368,7 +368,11 @@
 "Assets/Script/Test009Dlg.cs"
 "Assets/Script/Test010Dlg.cs"
 "Assets/Script/Test011Dlg.cs"
-"Assets/Script/Text012Dlg.cs"
+"Assets/Script/Test012Dlg.cs"
+"Assets/Script/Test013Dlg.cs"
+"Assets/Script/Test014Dlg.cs"
+"Assets/Script/Test015Dlg.cs"
+"Assets/Script/Test016Dlg.cs"
 "Assets/Script/TextScript.cs"
 -langversion:9.0
 
